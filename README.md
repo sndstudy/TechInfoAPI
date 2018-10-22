@@ -1,4 +1,4 @@
-# Template-TypeScript-NodeJS
+# TechInfoAPI
 
 ## npmスクリプト
 
@@ -12,3 +12,10 @@
     - app.jsにまとめる
 - `lint`
     - Lint実行
+
+## TSLint
+
+- no-eval
+    - eval関数の使用禁止
+- no-var-keyword
+    - varによる変数宣言禁止
