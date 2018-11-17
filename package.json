@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@types/node": "^10.9.1",
+    "cheerio-httpcli": "^0.7.3",
     "express": "^4.16.4"
   }
 }
